@@ -1,0 +1,53 @@
+/* add your CSS here */
+
+.page{
+align-content: center;
+
+}
+
+.title{
+font-size: 30px;
+}
+
+.cardContainer{
+    padding: 10px;
+    text-align: justify;
+    width: 350px;
+    height: 600px;
+    border-color: lightgrey;
+    border-style: solid;
+    display: block;
+    box-shadow: lightgrey 5px 5px;
+}
+
+.image{
+    height: 200px;
+    width: 300px;
+    padding: 0px 30px 10px 30px
+}
+
+.imageText{
+    font-style: italic;
+}
+.list{
+    list-style-type: none;
+    text-align: left;
+    text-decoration: none;
+    padding: 0 !important;
+     
+}
+.listTitle{
+font-weight: bold;
+}
+
+.listItem{
+font-weight: normal;
+}
+
+.descriptionContainer{
+border-color: lightgrey;
+border-style: solid;
+display: block;
+padding: 10px;
+
+}
